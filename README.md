@@ -13,7 +13,7 @@
 
 ## | Recent Activity
 <!--START_SECTION:activity-->
-少于5
+Less than 5 activities
 <!--END_SECTION:activity-->
 
 ## | 💸鸣谢
