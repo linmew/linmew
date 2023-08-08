@@ -6,14 +6,14 @@
 </picture>
 
 ## | GitHub Stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=linmew&show_icons=true&count_private=true&theme=radical)
-
-## | Most Used Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=linmew&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<p>
+<a href="https://github.com/linmew"><img src="https://github-readme-stats.vercel.app/api?username=linmew&show_icons=true&count_private=true&theme=merko" height="200"><a>
+<a href="https://github.com/linmew"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=linmew&layout=compact" height="200"><a>
+</p>
 
 ## | Recent Activity
 <!--START_SECTION:activity-->
-
+少于5
 <!--END_SECTION:activity-->
 
 ## | 💸鸣谢
