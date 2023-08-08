@@ -12,8 +12,9 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=linmew&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ## | Recent Activity
+<!--START_SECTION:activity-->
 
-<!--START_SECTION:activity--><!--END_SECTION:activity-->
+<!--END_SECTION:activity-->
 
 ## | 💸鸣谢
 * [Platane/snk](https://github.com/Platane/snk) : Generates a snake game from a github user contributions graph
