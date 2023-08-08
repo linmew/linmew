@@ -1,3 +1,4 @@
+![](https://komarev.com/ghpvc/?username=linmew&style=flat-square)
 ## | GitHub contributions in the last year
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/linmew/linmew/output/github-contribution-grid-snake-dark.svg">
@@ -13,10 +14,11 @@
 
 ## | Recent Activity
 <!--START_SECTION:activity-->
-1. 🚀 Published release [chatgpt-mirror](https://github.com/linmew/chatgpt-mirror/releases/tag/v1.0.3) in [linmew/chatgpt-mirror](https://github.com/linmew/chatgpt-mirror)
+Less than 5 activities
 <!--END_SECTION:activity-->
 
 ## | 💸鸣谢
 * [Platane/snk](https://github.com/Platane/snk) : Generates a snake game from a github user contributions graph
 * [lxfriday/lxfriday](https://github.com/lxfriday/lxfriday) : The source code of workflows
-* [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats/blob/master/docs/readme_cn.md) : GitHub Stats & Most Used Languages
+* [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats/blob/master/docs/readme_cn.md) : GitHub Stats
+* [antonkomarev/github-profile-views-counter](https://github.com/antonkomarev/github-profile-views-counter) : Github profile views counter
