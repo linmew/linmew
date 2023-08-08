@@ -13,7 +13,7 @@
 
 ## | Recent Activity
 <!--START_SECTION:activity-->
-Less than 5 activities
+1. 🚀 Published release [chatgpt-mirror](https://github.com/linmew/chatgpt-mirror/releases/tag/v1.0.3) in [linmew/chatgpt-mirror](https://github.com/linmew/chatgpt-mirror)
 <!--END_SECTION:activity-->
 
 ## | 💸鸣谢
