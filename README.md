@@ -22,3 +22,4 @@
 * [lxfriday/lxfriday](https://github.com/lxfriday/lxfriday) : The source code of workflows
 * [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats/blob/master/docs/readme_cn.md) : GitHub Stats
 * [antonkomarev/github-profile-views-counter](https://github.com/antonkomarev/github-profile-views-counter) : Github profile views counter
+* [jamesgeorge007/github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme) : GitHub Activity in Readme
