@@ -14,7 +14,7 @@
 
 ## | Recent Activity
 <!--START_SECTION:activity-->
-1. 🚀 Published release [chatgpt-mirror](https://github.com/linmew/chatgpt-mirror/releases/tag/v1.0.3) in [linmew/chatgpt-mirror](https://github.com/linmew/chatgpt-mirror)
+1. 💪 Opened PR [#465](https://github.com/CMHopeSunshine/LittlePaimon/pull/465) in [CMHopeSunshine/LittlePaimon](https://github.com/CMHopeSunshine/LittlePaimon)
 <!--END_SECTION:activity-->
 
 ## | 💸鸣谢
